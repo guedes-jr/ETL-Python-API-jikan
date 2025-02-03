@@ -1,23 +1,24 @@
 
 # 🌐 ETL Python consuminfo API Jikan
 <div align="center">
-<p align="center">
-  <a href="https://github.com/guedes-jr/ETL-Python-API-jikan">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/guedes-jr/ETL-Python-API-jikan">
-  </a>
-  <a href="https://github.com/guedes-jr/ETL-Python-API-jikan/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/guedes-jr/ETL-Python-API-jikan">
-  </a>
-  <a href="https://github.com/guedes-jr/ETL-Python-API-jikan/network">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/guedes-jr/ETL-Python-API-jikan">
-  </a>
-  <a href="https://github.com/guedes-jr/ETL-Python-API-jikan/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/guedes-jr/ETL-Python-API-jikan">
-  </a>
-  <a href="https://github.com/guedes-jr/ETL-Python-API-jikan/blob/main/LICENSE">
-    <img alt="GitHub license" src="https://img.shields.io/github/license/guedes-jr/ETL-Python-API-jikan">
-  </a>
-</p>
+    <p align="center">
+    <a href="https://github.com/guedes-jr/ETL-Python-API-jikan">
+        <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/guedes-jr/ETL-Python-API-jikan">
+    </a>
+    <a href="https://github.com/guedes-jr/ETL-Python-API-jikan/issues">
+        <img alt="GitHub issues" src="https://img.shields.io/github/issues/guedes-jr/ETL-Python-API-jikan">
+    </a>
+    <a href="https://github.com/guedes-jr/ETL-Python-API-jikan/network">
+        <img alt="GitHub forks" src="https://img.shields.io/github/forks/guedes-jr/ETL-Python-API-jikan">
+    </a>
+    <a href="https://github.com/guedes-jr/ETL-Python-API-jikan/stargazers">
+        <img alt="GitHub stars" src="https://img.shields.io/github/stars/guedes-jr/ETL-Python-API-jikan">
+    </a>
+    <a href="https://github.com/guedes-jr/ETL-Python-API-jikan/blob/main/LICENSE">
+        <img alt="GitHub license" src="https://img.shields.io/github/license/guedes-jr/ETL-Python-API-jikan">
+    </a>
+    </p>
+</div>
 
 ## 📝 Sumário
 
